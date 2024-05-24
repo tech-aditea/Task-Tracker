@@ -1,6 +1,4 @@
 # Task-Manager
-
-## Introduction
 Task-Manager is a simple and intuitive web-based application designed to help you keep track of your tasks and to-dos. It uses a clean and minimalistic design to ensure that you can focus on what matters most - getting things done.
 
 ## Features
