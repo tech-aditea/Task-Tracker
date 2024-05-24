@@ -1,0 +1,25 @@
+:root {
+  --dark1: #374151;
+  --dark2: #1f2947;
+  --dark3: #111827;
+
+  --light: #eee;
+  --rosequartz: #f7cac9;
+  --blueturquoise: #55b4b0;
+  --pink: #ec4899;
+  --purple: #8b5cf6;
+  --gray: #6b7280;
+  --serenity: #92a8d1;
+  --blueizis: #5b5ea6;
+}
+
+* {
+  color: var(--serenity);
+  font-family: "Trispace", sans-serif;
+  font-weight: 300;
+}
+body {
+  background-color: var(--dark1);
+
+  min-height: 100vh;
+}

@@ -1,0 +1,42 @@
+.tasklistClass {
+  padding-bottom: 0px;
+}
+
+.pendingClass,
+.completedClass {
+  padding: 7px 10px;
+  display: flex;
+  background-color: #a8577b;
+  border-radius: 10px;
+  margin: 5px;
+  position: relative;
+  font-size: 16px;
+}
+
+.pendingClass {
+  margin-left: 10px;
+}
+.completedClass {
+  margin-left: 10px;
+}
+
+.completebuttonClass,
+.deletebuttonClass {
+  border-radius: 4px;
+  color: var(--blueturquoise);
+  position: absolute;
+
+  background-color: var(--dark3);
+  padding: 3px 7px;
+  border: 0;
+  margin: 3px;
+  cursor: pointer;
+  top: 2px;
+}
+.deletebuttonClass {
+  right: 7px;
+}
+
+.completebuttonClass {
+  right: 75px;
+}
